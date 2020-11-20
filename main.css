@@ -11,6 +11,7 @@ body {
   height: 100vh;
   background-size: cover;
   color: #333;
+  background: url('assets/freedom.jpg') no-repeat center;
 }
 
 .wrapper {
